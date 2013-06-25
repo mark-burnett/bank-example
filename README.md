@@ -7,7 +7,7 @@ The code implements a double-entry accounting system, which approximately
 follows Command Query Responsibility Separation (CQRS).
 
 
-# Installtion
+# Installation
 
 Though this module can be installed (using python setup.py install), there
 isn't really much point.
