@@ -18,25 +18,17 @@ If you only want to run the unit tests (not the integration tests), and don't
 care about the test coverage, try:
 
 ```bash
-python setup.py test
+python setup.py install
+python setup.py nosetests
 ```
-If you want to explore the functionality of nosetests, first you must do a
-development installation of the module:
 
-```bash
-python setup.py develop
-```
 After that, you can run the sample code provided:
 
 ```bash
 python cqrs_example.py
 ```
 
-
-# Tests
-
-Once you have installed the development version of the module, you can run the
-tests and generate a coverage report:
+If you want to run the tests with coverage, try:
 
 ```bash
 nosetests --with-coverage --cover-package bank --cover-inclusive
