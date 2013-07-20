@@ -1,3 +1,5 @@
+#[![Build Status][travis-status]](https://travis-ci.org/mark-burnett/bank-example)
+
 # Overview
 
 This repository is an attempt to provide a non-trivial code base for
