@@ -1,6 +1,6 @@
-# Overview
+[![Build Status](https://travis-ci.org/mark-burnett/bank-example.png?branch=master)](https://travis-ci.org/mark-burnett/bank-example)
 
-[![Build Status][travis-status]](https://travis-ci.org/mark-burnett/bank-example)
+# Overview
 
 This repository is an attempt to provide a non-trivial code base for
 demonstrating the python unittest and mock modules.
