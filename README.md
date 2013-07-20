@@ -1,4 +1,4 @@
-#[![Build Status][travis-status]](https://travis-ci.org/mark-burnett/bank-example)
+[![Build Status][travis-status]](https://travis-ci.org/mark-burnett/bank-example)
 
 # Overview
 
